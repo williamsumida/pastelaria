@@ -26,7 +26,7 @@ function M.setup()
 	vim.api.nvim_set_hl(0, "Comment", { fg = "#B7B7B7", bg = "#000000" })
 	vim.api.nvim_set_hl(0, "Keyword", { fg = "#FFF6E3", bg = "#000000" })
 	vim.api.nvim_set_hl(0, "Function", { fg = "#FFF6E3", bg = "#000000" })
-	vim.g.colors_name = "first-theme"
+	vim.g.colors_name = "pastelaria"
 end
 
 return M

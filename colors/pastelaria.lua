@@ -1,1 +1,1 @@
-require("first-theme").setup()
+require("pastelaria").setup()
